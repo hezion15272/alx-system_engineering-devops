@@ -9,3 +9,5 @@ file 2 groups displays the group in which the user belongs to
 file 3 new owner changes the owner of the file hello to betty
 
 file 4 empty creates a new file called hello
+
+file 5 execute adds executable permission to the file hello
