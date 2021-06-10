@@ -16,4 +16,6 @@ file 6 adds execute permission to the owner and the group owner, and read permis
 
 file 7 adds execution permission to the owner, the group owner and the other users, to the file hello
 
-file 8 sets a permission of --- --- rwx on the file hello
+file 8 sets a permission of "--- --- rwx" on the file hello
+
+file 9 sets the mode of the file hello to "-rwxr-x-wx"
