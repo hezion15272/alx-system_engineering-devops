@@ -27,3 +27,5 @@ file 11 adds execute permission to all subdirectories of the current directory f
 file 12 creates a directory called dir_holberton with permissions 751 in the working directory
 
 file 13 changes the group owner to holberton for the file hello
+
+file 14 changes the owner and group name for all other files and dir
