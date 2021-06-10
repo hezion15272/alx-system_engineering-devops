@@ -19,3 +19,5 @@ file 7 adds execution permission to the owner, the group owner and the other use
 file 8 sets a permission of "--- --- rwx" on the file hello
 
 file 9 sets the mode of the file hello to "-rwxr-x-wx"
+
+file 10 sets the mode of the hello to reference the mode of the file olleh
