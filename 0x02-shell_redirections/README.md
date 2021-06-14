@@ -1,1 +1,5 @@
 This project is specially based on redirections of input and output
+
+file 0-hello_world prints "Hello, World" in the console
+
+file 1-confused_smiley displays a confused smiley "(Ôo)'
