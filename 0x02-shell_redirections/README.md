@@ -11,3 +11,5 @@ file 3-twofiles displays content of two dir files
 file 4-lastlines displays the tail of the dir
 
 file 5-firstlines displays the head of files in the dir
+
+file 6-third_line outputs the third line of the file
