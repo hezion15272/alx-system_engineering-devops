@@ -21,3 +21,9 @@ file 8-true_knowledge creates a script that prints the result of the addition of
 file 9-divide_and_rule generates a script that prints the result of POWER divided by DIVIDE, followed by new line
 
 file 10-love_exponent_breath creates a script that display the result of BREATH to the power LOVE
+
+file 11-binary_to_decimal writes a script that converts a number from base 2 to 10
+
+file 12-combinations create a script that prints all possible combinations of two letters, except oo
+
+file 13-print_float write a script that prints a number with two decimal places, followed by anew line
