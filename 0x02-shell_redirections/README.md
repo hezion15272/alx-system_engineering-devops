@@ -35,3 +35,6 @@ file 15-countthatword displays the number of lines that contain the pattern "bin
 file 16-whatsnext display lines containing the pattern "root" and  lines after them in the file
 file 17-hidethisword display all the lines in the file that do not contain the pattern bin
 
+file 18-letteronly display all lines of the file starting with a letter
+
+
