@@ -7,3 +7,5 @@ file 1-confused_smiley displays a confused smiley "(Ôo)'
 file 2-hellofile displays content of the /etc/passwd file
 
 file 3-twofiles displays content of two dir files
+
+file 4-lastlines displays the tail of the dir
