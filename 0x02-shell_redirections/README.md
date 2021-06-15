@@ -19,3 +19,5 @@ file 7-file creates a file that contains a text Holberton School
 file 8-cwd_state writes the results of the command ls -la in a file
 
 file 9-duplicate_last_line duplicates the last line of the iacta
+
+file 10-no_more_js deletes all the .js files
