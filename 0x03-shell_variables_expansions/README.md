@@ -27,3 +27,11 @@ file 11-binary_to_decimal writes a script that converts a number from base 2 to 
 file 12-combinations create a script that prints all possible combinations of two letters, except oo
 
 file 13-print_float write a script that prints a number with two decimal places, followed by anew line
+
+file 100-decimal_to_hexadecimal write a script that converts a number from base 10 to base 16
+
+file 101-rot13 creates a script that encodes and decodes text using rot13 encryption
+
+file 102-odd write a script that prints every other line from the input, starting with the first line
+
+file 103-water_and_stir write a shell script that adds the two numbers stored in the environment variables and prints the result
