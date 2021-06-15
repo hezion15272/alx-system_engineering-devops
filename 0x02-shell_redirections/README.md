@@ -13,3 +13,5 @@ file 4-lastlines displays the tail of the dir
 file 5-firstlines displays the head of files in the dir
 
 file 6-third_line outputs the third line of the file
+
+file 7-file creates a file that contains a text Holberton School
