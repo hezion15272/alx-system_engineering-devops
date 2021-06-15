@@ -38,3 +38,5 @@ file 17-hidethisword display all the lines in the file that do not contain the p
 file 18-letteronly display all lines of the file starting with a letter
 
 file 19-AZ replaces all characters A and C from input to Z and e respectively
+
+file 20-hiago create a script that removes all letters c and C from input
