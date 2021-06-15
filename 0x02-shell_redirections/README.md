@@ -15,3 +15,5 @@ file 5-firstlines displays the head of files in the dir
 file 6-third_line outputs the third line of the file
 
 file 7-file creates a file that contains a text Holberton School
+
+file 8-cwd_state writes the results of the command ls -la in a file
