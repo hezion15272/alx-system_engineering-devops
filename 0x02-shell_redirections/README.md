@@ -29,3 +29,7 @@ file 12-newest_files displays the 10 newest files in the current directory
 file 13-unique displays the lists of words as input and prints only words that are identical once
 
 file 14-findthatword output lines containing the pattern "root" from a file
+
+file 15-countthatword displays the number of lines that contain the pattern "bin" in the file
+
+file 16-whatsnext display lines containing the pattern "root" and  lines after them in the file
