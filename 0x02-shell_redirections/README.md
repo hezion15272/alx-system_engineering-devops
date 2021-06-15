@@ -44,3 +44,11 @@ file 20-hiago create a script that removes all letters c and C from input
 file 21-reverse writes a script that reverse its input
 
 file 22-users_and_homes creates a script that displays all user and their home directories, sorted by users
+
+file 100-empty_casks is a command that finds all empty files and directories in the current directory and all sub-directories
+
+file 101-gifs write a script that list all the files with .gif extension in current directory and it's subdirectories 
+
+file 102-acrostic creates a script that decoded message has to end with a new line
+
+file 103-the_biggest_fan writes a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most request
