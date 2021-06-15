@@ -9,3 +9,5 @@ file 2-hellofile displays content of the /etc/passwd file
 file 3-twofiles displays content of two dir files
 
 file 4-lastlines displays the tail of the dir
+
+file 5-firstlines displays the head of files in the dir
